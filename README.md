@@ -13,7 +13,7 @@ This is specifically designed for Envato authors to be notified via telegram whe
 8. Refresh your browser.
 9. Identify the numerical chat ID by finding the id inside the chat JSON object. In the example below, the chat ID is ```123456789```
 
-  ```
+  ```json
   {  
    "ok":true,
      "result":[  
